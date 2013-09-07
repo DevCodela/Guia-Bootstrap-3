@@ -1,0 +1,263 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="782" measuredH="1747" mockupW="598" mockupH="1738">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="184" y="9" w="598" h="1738" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Twitter%20Bootstrap%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="222" y="179" w="522" h="27" measuredW="87" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Inicio%2C%20%3D</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="184" y="1451" w="598" h="216" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3700253</color>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="589" y="114" w="48" h="41" measuredW="200" measuredH="200" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/face.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="689" y="114" w="48" h="41" measuredW="201" measuredH="201" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/gplus.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="638" y="114" w="48" h="41" measuredW="201" measuredH="200" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/twitter.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Title" x="222" y="114" w="245" h="-1" measuredW="208" measuredH="41" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DevCode.la</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::SubTitle" x="223" y="150" w="229" h="-1" measuredW="144" measuredH="20" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <italic>true</italic>
+        <size>18</size>
+        <text>mejora%20continua%21%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="222" y="221" w="522" h="201" measuredW="522" measuredH="201" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Carousel</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="522" h="201" measuredW="960" measuredH="371" zOrder="0" locked="false" isInGroup="60">
+          <controlProperties>
+            <src>./assets/Bootstrap.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="502" y="78" w="13" h="45" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="60">
+          <controlProperties>
+            <shape>triangle</shape>
+            <shapeRotation>270</shapeRotation>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="7" y="86" w="13" h="45" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="60">
+          <controlProperties>
+            <shape>triangle</shape>
+            <shapeRotation>90</shapeRotation>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="240" y="188" w="43" h="5" measuredW="43" measuredH="5" zOrder="3" locked="false" isInGroup="60">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="9" y="0" w="5" h="5" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="8"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="19" y="0" w="5" h="5" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="27" y="0" w="5" h="5" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="8"/>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="38" y="0" w="5" h="5" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="8"/>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="5" h="5" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="8">
+              <controlProperties>
+                <borderColor>545684</borderColor>
+                <color>65535</color>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::SubTitle" x="341" y="447" w="-1" h="-1" measuredW="94" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Proyecto</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Link" x="341" y="536" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Leer%20mas%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Image" x="222" y="449" w="104" h="106" measuredW="270" measuredH="276" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/github-logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Paragraph" x="341" y="482" w="396" h="54" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GitHub%20es%20una%20forja%20para%20alojar%20proyectos%20utilizando%20el%20sistema%20de%20control%20de%20versiones%20Git.%20Utiliza%20el%20framework%20Ruby%20on%20Rails%20por%20GitHub</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SubTitle" x="337" y="570" w="137" h="-1" measuredW="137" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sublime%20Text</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Link" x="335" y="653" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Leer%20mas%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Image" x="222" y="587" w="100" h="97" measuredW="256" measuredH="256" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/sublime-text-logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Paragraph" x="335" y="609" w="402" h="36" measuredW="200" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sublime%20Text%20es%20un%20editor%20de%20texto%20y%20editor%20de%20c%F3digo%20fuente%20creado%20en%20Python%20desarrollado%20originalmente%20como%20una%20extensi%F3n%20de%20Vim</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::SubTitle" x="341" y="699" w="-1" h="-1" measuredW="84" measuredH="26" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DJango</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Link" x="341" y="781" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Leer%20mas%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="222" y="704" w="119" h="90" measuredW="390" measuredH="250" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/djangopony.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Paragraph" x="341" y="725" w="403" h="48" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Django%20es%20un%20framework%20de%20desarrollo%20web%20de%20c%F3digo%20abierto%2C%20escrito%20en%20Python%2C%20que%20respeta%20el%20paradigma%20conocido%20como%20Model%20Template%20View</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="222" y="815" w="522" h="297" measuredW="300" measuredH="200" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Image" x="222" y="815" w="521" h="258" measuredW="960" measuredH="371" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/dJango.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::SubTitle" x="222" y="1127" w="61" h="-1" measuredW="60" measuredH="26" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Video</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Link" x="234" y="1360" w="-1" h="-1" measuredW="47" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3EHtml%205</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Link" x="234" y="1379" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3EJavaScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Link" x="234" y="1398" w="-1" h="-1" measuredW="32" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3EPhp</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Link" x="234" y="1417" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%3EDjango</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="222" y="1153" w="522" h="199" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hola%20en%20esta%20oportunidad%20tratare%20la%20introducci%F3n%20a%20DJango.%20En%20este%20tercer%20videoe%20vamos%20a%20ver%20como%20instalar%20PIP%2C%20VirtualEnv%20y%20DJango%201.5%2C%20esperamos%20est%E9%20disfrutando%20de%20los%20videos%20que%20estamos%20preparando%20para%20ustedes.%0A%20%0APara%20seguir%20con%20esta%20iniciativa%20no%20te%20olvides%20de%20suscribirte%20al%20canal%20y%20seguirnos%20en%20facebook%20y%20twitter.%0A%20%0ATwitter%3A%20https%3A//twitter.com/DevCodela%0AFacebook%3A%20https%3A//www.facebook.com/DevCode.la%0A%20%0Acontamos%20con%20muchas%20mas%20gu%EDas%2C%20entre%20las%20cuales%20esta%20Ruby%2C%20Python%2C%20Twitter%2C%20Bootstrap%2C%20CSS3%2C%20HTML5%20y%20Javascript.</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SubTitle" x="212" y="1466" w="98" h="-1" measuredW="96" measuredH="26" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Servicios</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Paragraph" x="212" y="1499" w="205" h="80" measuredW="200" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Dise%F1o%20web%0ALogotipos%0AMobile%20App%20para%20el%20Desarrollo</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::SubTitle" x="519" y="1466" w="124" h="-1" measuredW="96" measuredH="26" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Servicios</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Paragraph" x="519" y="1499" w="257" h="57" measuredW="200" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Dise%F1o%20web%0ALogotipos%0AMobile%20App%20para%20el%20Desarrollo</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="184" y="1667" w="598" h="80" measuredW="100" measuredH="70" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::LinkBar" x="218" y="1691" w="-1" h="-1" measuredW="261" measuredH="19" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <color>16777215</color>
+        <text>Inicio%2C%20Servicios%2C%20Proyectos%2C%20Contactos</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="212" y="1720" w="-1" h="-1" measuredW="337" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>%A9%20Copyright%202013%20Company%20Name%20%7C%20Design%20by%20DevCode.la</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::SubTitle" x="212" y="1571" w="98" h="-1" measuredW="96" measuredH="26" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Servicios</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Paragraph" x="212" y="1604" w="205" h="80" measuredW="200" measuredH="80" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Dise%F1o%20web%0ALogotipos%0AMobile%20App%20para%20el%20Desarrollo</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::SubTitle" x="519" y="1571" w="124" h="-1" measuredW="96" measuredH="26" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>Servicios</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Paragraph" x="519" y="1604" w="257" h="57" measuredW="200" measuredH="80" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Dise%F1o%20web%0ALogotipos%0AMobile%20App%20para%20el%20Desarrollo</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
